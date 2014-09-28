@@ -1,6 +1,6 @@
 = Análise =
 
-== Excepção no Artigo 75º =
+== Excepção no Artigo 75º ==
 
 O texto proposto inicialmente pelo Governo dizia:
 
@@ -37,7 +37,77 @@ A redacção final da Proposta de Lei diz:
 	cultura, incluindo a fruição de bens intelectuais.
 
 
-[Análise por concluir]
+Diz também a SPA:
 
+	Por outro lado, ainda nesta alínea, a SPA entende que tem que ficar expresso
+	que só os organismos de radiodifusão de serviço público (e não os restantes)
+	estarão abrangidos pela aplicação da Directiva. Esta referência encontra-se
+	expressa ao longo de toda a Directiva, desde o considerando (1), e está
+	expressamente prevista no artigo 1o n.o 1. Deve ser, por isso, respeitada.
+
+
+Diz, ainda:
+
+	Por fim, resulta, igualmente claro, que esta excepção deverá aplicar-se apenas
+	às entidades aí referidas, e exclusivamente para atingir a sua missão de
+	interesse público.
+
+
+== Artigo 26.A ==
+
+Dita a versão original:
+
+	1- Consideram-se obras órfãs, as obras protegidas em que nenhum dos seus
+	titulares de direitos estiver identificado ou se, apesar de identificado,
+	nenhum deles tiver sido localizado.
+
+A SPA sugere a seguinte redacção:
+
+	1 - Consideram-se obras órfãs, as obras intelectuais protegidas em que nenhum
+	dos seus titulares de direitos estiver identificado ou se, apesar de
+	identificado, nenhum deles tiver sido localizado, depois de realizada e
+	registada uma pesquisa diligente, nos termos do número seguinte.
+
+
+No segundo ponto, a PL diz:
+
+	2 - Para efeitos do disposto no número anterior, são abrangidas as obras
+	intelectuais objeto de publicação ou distribuição nos Estados-Membros da União
+	Europeia, nomeadamente:
+
+Tendo, no entanto, dito a SPA sobre isso:
+
+	2. No número 2 proposto para o artigo 26o-A, deve eliminar-se a palavra
+	“nomeadamente”, já que a Directiva é taxativa ao referir as obras abrangidas,
+	não possibilitando a aplicação do regime das obras órfãs a outras situações.
+	Face a esta redacção, a lei portuguesa não deve ser mais abrangente, pelo que
+	se sugere a supressão da palavra “nomeadamente”.
+
+
+Quanto ao ponto 4, em que a PL descreve uma lista de fontes a consultar,
+comenta a SPA:
+
+	4. Deve acrescentar-se uma referência à necessidade de efectuar uma consulta a
+	fontes de informação noutros países, se aparecerem provas que possam levar a
+	acreditar que haja informações relevantes sobre os titulares de direito
+	noutros países.
+
+
+Em relação ao ponto 5, dizem que a redacção não está conforme a directiva,
+sugerindo a sua desmultiplicação nos pontos 5 e 6, como veio a acontecer.
+
+
+Quanto ao ponto 8 (9 na redacção final), refere a SPA:
+
+	8 – O considerando (22), possibilitando a celebração destes acordos com
+	parceiros comerciais para a digitalização e colocação à disposição do público
+	refere, no entanto, que os mesmos não podem conceder direitos aos parceiros
+	comerciais para utilizar ou controlar as obras órfãs. Esta impossibilidade não
+	parece resultar do texto proposto para a transposição. 
+
+
+== Artigo 26.B ==
+
+[Por analizar]
 
 = Conclusão =
