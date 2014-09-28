@@ -1,0 +1,203 @@
+= Análise =
+
+O texto submetido pela Biblioteca Nacional existe em forma de "versão para
+efeitos de comentários". Assim sendo, compara-se aqui essa versão com o texto
+que deu entrada em Diário da República.
+
+== Exposição de Motivos ==
+
+BN> A Diretiva n.o 2012/28/UE, do Parlamento Europeu e do Conselho, de 25 de
+BN> outubro de 2012, relativa a determinadas utilizações permitidas de obras
+BN> órfãs, e que ora se transpõe para o ordenamento jurídico interno, veio
+BN> estabelecer relativamente a um conjunto de entidades, aspetos fundamentais do
+BN> regime jurídico das obras órfãs, implicando a introdução de alterações ao
+BN> Código do Direitos de Autor e dos Direitos Conexos.
+
+DR> A Diretiva n.º 2012/28/UE, do Parlamento Europeu e do Conselho, de 25 de
+DR> outubro de 2012, relativa a determinadas utilizações permitidas de obras
+DR> órfãs, veio estabelecer aspetos fundamentais do regime jurídico das obras
+DR> órfãs relativamente a um conjunto de entidades.
+[...]
+DR> Importa, por isso, transpor para a ordem jurídica interna a Diretiva
+DR> n.º 2012/28/UE, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012,
+DR> o que implica introduzir algumas alterações ao Código do Direito de Autor e
+DR> dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março.
+
+
+BN> Com efeito, as utilizações permitidas das obras órfãs respeitam a bibliotecas,
+BN> estabelecimentos de ensino, arquivos e museus, acessíveis ao público,
+BN> instituições responsáveis pelo património cinematográfico ou sonoro e
+BN> organismos de radiodifusão de serviço público, em ordem a realizarem os
+BN> objetivos relacionados com a sua missão de interesse público.
+
+DR> E as utilizações permitidas das obras órfãs, nos termos da mesma
+DR> diretiva, respeitam a bibliotecas, estabelecimentos de ensino, arquivos e
+DR> museus acessíveis ao público, instituições responsáveis pelo património
+DR> cinematográfico ou sonoro e organismos de radiodifusão de serviço público, em
+DR> ordem a realizarem os objetivos relacionados com a sua missão de interesse
+DR> público. 
+
+
+BN> Neste quadro normativo, as obras ou fonogramas são considerados obras órfãs,
+BN> desde que estejam protegidas por direito de autor e/ou direitos conexos, se
+BN> nenhum dos seus titulares de direitos estiver identificado, ou se, apesar de
+BN> um ou mais desses titulares estiverem identificados, nenhum deles tiver sido
+BN> localizado, após a realização e registo de uma pesquisa diligente, de boa-fé,
+BN> destinada à identificação destes.
+
+DR> De acordo com a referida diretiva, as obras ou os fonogramas são considerados
+DR> obras órfãs desde que, estando protegidos por direito de autor e ou direitos
+DR> conexos, nenhum dos seus titulares de direitos estiver identificado, ou se,
+DR> apesar de um ou mais desses titulares estiverem identificados, nenhum deles
+DR> tiver sido localizado, após a realização e registo de uma pesquisa diligente e
+DR> de boa-fé. 
+
+
+BN> Deste modo, as utilizações das obras órfãs pelas entidades beneficiárias
+BN> permitirão acentuar o desenvolvimento das medidas de digitalização do
+BN> património cultural. Essa tarefa mostra-se uma ação essencial para assegurar e
+BN> promover o acesso e a fruição pelos cidadãos aos bens intelectuais do
+BN> património cultural europeu, designadamente pela criação de bibliotecas
+BN> digitais.
+
+DR> As utilizações das obras órfãs pelas entidades beneficiárias irão permitir
+DR> acentuar o desenvolvimento das medidas de digitalização do património
+DR> cultural, sendo certo que tal tarefa mostra-se essencial para assegurar e
+DR> promover o acesso e a fruição pelos cidadãos aos bens intelectuais do
+DR> património cultural europeu, designadamente pela criação de bibliotecas
+DR> digitais.
+
+
+BN> Adicionalmente, estabelece-se um novo limite ao direito de autor de modo a
+BN> abranger certos atos de utilização das obras órfãs, designadamente no domínio
+BN> do direito de reprodução e do direito de colocação à disposição do público por
+BN> parte das entidades beneficiárias.
+
+DR> Desde logo, em face da diretiva, torna-se necessário incluir no Código do
+DR> Direito de Autor e dos Direitos Conexos aspetos fundamentais do regime
+DR> jurídico das obras órfãs e um novo limite ao direito de autor de modo a
+DR> abranger certos atos de utilização das obras órfãs, designadamente no domínio
+DR> do direito de reprodução e do direito de colocação à disposição do público por
+DR> parte das entidades beneficiárias.
+
+
+BN> Com vista a assegurar a pesquisa diligente e de boa-fé das obras órfãs no
+BN> espaço europeu, garante-se a criação e a gestão de uma base de dados
+BN> eletrónica nacional, regularmente atualizada e ligada a uma base de dados
+BN> europeia em linha única, acessível ao público, criada e gerida pelo Instituto
+BN> de Harmonização do Mercado Interno. Considera-se, de entre as instituições
+BN> públicas nacionais com atribuições no domínio cultural, ser a Biblioteca
+BN> Nacional de Portugal a entidade tecnicamente mais preparada para assegurar
+BN> essa obrigação a nível nacional.
+
+DR> Além disso, com vista a assegurar a pesquisa diligente e de boa-fé das obras
+DR> órfãs no espaço europeu, torna-se necessário estabelecer e garantir no Código
+DR> do Direito de Autor e dos Direitos Conexos, tal como previsto na diretiva em
+DR> questão, a criação e a gestão de uma base de dados eletrónica nacional,
+DR> regularmente atualizada e ligada a uma base de dados europeia em linha única,
+DR> acessível ao público, criada e gerida pelo Instituto de Harmonização do
+DR> Mercado Interno. Neste particular, de entre as instituições públicas nacionais
+DR> com atribuições no domínio cultural, considera-se ser a Biblioteca Nacional de
+DR> Portugal a entidade tecnicamente mais preparada para assegurar o cumprimento
+DR> dessa obrigação a nível nacional. 
+
+
+== Artigo 2 ==
+
+BN> u) A reprodução e a colocação à disposição do público de obras órfãs, para
+BN> fins de digitalização, indexação, catalogação, preservação ou restauro e ainda
+BN> as formas de utilização previstas no artigo 68.o, por parte de bibliotecas,
+BN> estabelecimentos de ensino, museus, arquivos, instituições responsáveis pelo
+BN> património cinematográfico ou sonoro e organismos de radiodifusão, no âmbito
+BN> dos seus objetivos de interesse público, nomeadamente o direito de acesso à
+BN> informação, à educação e à cultura, incluindo a fruição de bens intelectuais.
+
+DR> u) A reprodução e a colocação à disposição do público de obras órfãs, para
+DR> fins de digitalização, indexação, catalogação, preservação ou restauro e ainda
+DR> os atos funcionalmente conexos com as referidas faculdades, por parte de
+DR> bibliotecas, estabelecimentos de ensino, museus, arquivos, instituições
+DR> responsáveis pelo património cinematográfico ou sonoro e organismos de
+DR> radiodifusão de serviço público, no âmbito dos seus objetivos de interesse
+DR> público, nomeadamente o direito de acesso à informação, à educação e à
+DR> cultura, incluindo a fruição de bens intelectuais.
+
+
+== Artigo 3 ==
+
+DR> 5 - No caso da primeira publicação ou difusão da obra ter sido efetuada em
+DR> território português, a pesquisa diligente e de boa-fé deve ser efetuada neste
+DR> território, com exceção das obras cinematográficas ou audiovisuais e das
+DR> fixadas em fonograma que sejam produzidas ou coproduzidas por produtores com a
+DR> sua sede ou a sua residência habitual num Estado-membro da União Europeia,
+DR> caso em que a pesquisa se efetua no Estado-membro da sua sede ou da sua
+DR> residência habitual.
+
+
+BN> 5- No caso de obras que não tenham sido publicadas ou distribuídas, mas
+BN> que tenham sido colocadas à disposição do público com o consentimento dos
+BN> titulares de direitos, a pesquisa diligente é realizada em Portugal se a
+BN> entidade que colocou a obra à disposição do público estiver estabelecida no
+BN> país, com exceção das obras cinematográficas ou audiovisuais e das fixadas em
+BN> fonograma que sejam coproduzidas por produtores estabelecidos em Portugal e
+BN> noutros Estados membros da União Europeia, caso em que a pesquisa se efetua
+BN> nos Estados dos estabelecimentos em causa.
+
+DR> 6 - No caso de obras que não tenham sido publicadas ou distribuídas, mas que
+DR> tenham sido colocadas à disposição do público com o consentimento dos
+DR> titulares de direitos, a pesquisa diligente e de boa-fé é realizada em
+DR> Portugal caso a entidade que colocou a obra à disposição do público esteja
+DR> estabelecida no país.
+
+
+== Artigo 4 ==
+
+DR> É revogado o n.º 4 do artigo 183.º do Código do Direito de Autor e dos
+DR> Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março.
+
+
+= Conclusão =
+
+== Exposição de Motivos ==
+
+Ainda com redações bastante distintas, todas as sugestões da Biblioteca
+Nacional se encontram na exposição de motivos da redacção final.
+
+== Artigo 2 ==
+
+A Biblioteca Nacional recomendou a permissão às entidades que usufruirão
+directamente desta lei de recorrer às formas de utilização previstas no
+artigo 68.o. O Governo Português acabou por só permitir, dessas utilizações,
+"os atos funcionalmente conexos com as referidas faculdades". 
+
+== Artigo 3 ==
+
+A versão da Biblioteca Nacional não inclui o item para os casos de primeira
+publicação.
+
+A versão publicada em Diário da Reública não establece, para as obras que não
+tenham sido publicadas, que a pesquisa se faça noutros Estados membros quando
+as obras são coproduzidas por produtores estabelecidos em Portugal e noutros
+Estados membro.
+
+== Artigo 4 ==
+
+Na proposta da Biblioteca Nacional, o número 4º do artigo 183º do CDADC não é
+revogado. Este número refere-se às obras cujo país de origem não pertença à
+UE, definindo o termo dos direitos conexos nesses casos. 
+
+== Resumo conclusivo ==
+
+1) A Biblioteca Nacional prefere uma abordagem mais vasta às liberdades que as
+entidades terão no tratamento de obras órfãs, para o cumprimento do seu
+propósito, que a abordagem optada pelo Governo Português. Será necessária uma
+análise mais promenorizada deste assunto no texto da Directiva aqui
+transposta, para saber qual das duas abordagens melhor cumpre o espírito da
+directiva;
+
+2) É revogado, pelo Governo Português - e presumivelmente já para a redacção
+final - o n.º 4 do artigo 183.º do CDADC. Se por um lado não nos parece esta
+ser uma medida positiva, isso é de menor importância em relação ao facto de
+que esta alteração com impacto alargado ao CDADC nada tem a haver com a
+matéria em causa, e claramente não resulta da transposição da Directiva
+Europeia, pelo que este artigo não deve constar do texto a ser aprovado em
+especialidade.
