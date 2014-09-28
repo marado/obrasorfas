@@ -187,12 +187,9 @@ UE, definindo o termo dos direitos conexos nesses casos.
 
 == Resumo conclusivo ==
 
-1) A Biblioteca Nacional prefere uma abordagem mais vasta às liberdades que as
-entidades terão no tratamento de obras órfãs, para o cumprimento do seu
-propósito, que a abordagem optada pelo Governo Português. Será necessária uma
-análise mais promenorizada deste assunto no texto da Directiva aqui
-transposta, para saber qual das duas abordagens melhor cumpre o espírito da
-directiva;
+1) Este texto permite-nos ter uma visão mais aprofundada de uma das propostas
+de alteração feitas pela SPA, e cuja análise pode ser lida em
+https://github.com/marado/obrasorfas/blob/master/comparacoes/5-SPA.txt
 
 2) É revogado, pelo Governo Português - e presumivelmente já para a redacção
 final - o n.º 4 do artigo 183.º do CDADC. Se por um lado não nos parece esta
