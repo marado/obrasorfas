@@ -1,4 +1,4 @@
-= Obras Órfãs =
+# Obras Órfãs
 
 Em 2012 foi aprovada uma Directiva Europeia em relação a Obras Órfãs[1], que
 tem de ser transposta pelos estados membros até 29 de Outubro de 2014.
@@ -32,9 +32,11 @@ Português reagiu a esses mesmos contributos.[4]
 Cabe também afirmar que a proposta foi também comentada, já na sua redacção
 final, pela ANSOL[5] e pela AEL[6], ainda que de forma muito breve.
 
-[1] http://ec.europa.eu/internal_market/copyright/orphan_works/index_en.htm
-[2] http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=38644
-[3] http://app.parlamento.pt/DARPages/DAR_FS.aspx?Tipo=DAR+II+s%c3%a9rie+A&tp=A&Numero=163&Legislatura=XII&SessaoLegislativa=3&Data=2014-08-30&Paginas=28-31&PagIni=0&PagFim=0&Observacoes=&Suplemento=.&PagActual=0&pagFinalDiarioSupl=&idpag=691812&idint=&idact=&iddeb=
-[4] trabalho de comparação, para já, a ser trabalhado em https://github.com/marado/obrasorfas/tree/master/comparacoes
-[5] https://c.ansol.org/node/33
-[6] http://ensinolivre.pt/propostas-de-lei-246xii-e-247xii
+## Referências
+
+* [1] http://ec.europa.eu/internal_market/copyright/orphan_works/index_en.htm
+* [2] http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=38644
+* [3] http://app.parlamento.pt/DARPages/DAR_FS.aspx?Tipo=DAR+II+s%c3%a9rie+A&tp=A&Numero=163&Legislatura=XII&SessaoLegislativa=3&Data=2014-08-30&Paginas=28-31&PagIni=0&PagFim=0&Observacoes=&Suplemento=.&PagActual=0&pagFinalDiarioSupl=&idpag=691812&idint=&idact=&iddeb=
+* [4] trabalho de comparação, para já, a ser trabalhado em https://github.com/marado/obrasorfas/tree/master/comparacoes
+* [5] https://c.ansol.org/node/33
+* [6] http://ensinolivre.pt/propostas-de-lei-246xii-e-247xii
