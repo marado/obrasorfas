@@ -32,6 +32,18 @@ Português reagiu a esses mesmos contributos.[4]
 Cabe também afirmar que a proposta foi também comentada, já na sua redacção
 final, pela ANSOL[5] e pela AEL[6], ainda que de forma muito breve.
 
+## Calendário
+
+Tendo em consideração que a transposição tem de estar concluída até 29 de
+Outubro, a votação na especialidade terá de ocorrer, o mais tardar, dia 24 de
+Outubro. Tendo em consideração que a discussão sobre esta matéria em sede de
+especialidade está a ocorrer no seio da Primeira Comissão, cujas reuniões
+semanais são às quartas-feiras, este diploma terá de ser aprovado nessa
+Comissão, o mais tardar, dia 22 de Outubro. Tendo em consideração que não
+existe agendamento da apreciação deste diploma até à reunião de dia 15,
+resta-nos assumir que a Comissão prepara-se para agendar a apreciação e votação
+do diploma na mesma sessão, dia 22.
+
 ## Referências
 
 * [1] http://ec.europa.eu/internal_market/copyright/orphan_works/index_en.htm
