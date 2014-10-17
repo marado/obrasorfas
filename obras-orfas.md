@@ -34,15 +34,14 @@ final, pela ANSOL[5] e pela AEL[6], ainda que de forma muito breve.
 
 ## Calendário
 
-Tendo em consideração que a transposição tem de estar concluída até 29 de
-Outubro, a votação na especialidade terá de ocorrer, o mais tardar, dia 24 de
-Outubro. Tendo em consideração que a discussão sobre esta matéria em sede de
-especialidade está a ocorrer no seio da Primeira Comissão, cujas reuniões
-semanais são às quartas-feiras, este diploma terá de ser aprovado nessa
-Comissão, o mais tardar, dia 22 de Outubro. Tendo em consideração que não
-existe agendamento da apreciação deste diploma até à reunião de dia 15,
-resta-nos assumir que a Comissão prepara-se para agendar a apreciação e votação
-do diploma na mesma sessão, dia 22.
+Tendo em consideração que a transposição tem de estar concluída (e publicada 
+em Diário da República) até 29 de Outubro, a votação teria de ocorrer o mais 
+tardar até dia 28. Tendo em consideração que as reuniões ordinárias da 1ª 
+Comissão ocorrem às quarta-feiras, isso implicaria que o diploma teria de 
+sair, aprovado, da Comissão o mais tardar na reunião de dia 22 de Outubro, o 
+que, de acordo com o calendário da referida comissão, não está previsto 
+acontecer, prevendo-se assim que Portugal se prepara para entrar em 
+incumprimento desta directiva comunitária.
 
 ## Referências
 
