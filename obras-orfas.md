@@ -36,12 +36,10 @@ final, pela ANSOL[5] e pela AEL[6], ainda que de forma muito breve.
 
 Tendo em consideração que a transposição tem de estar concluída (e publicada 
 em Diário da República) até 29 de Outubro, a votação teria de ocorrer o mais 
-tardar até dia 28. Tendo em consideração que as reuniões ordinárias da 1ª 
-Comissão ocorrem às quarta-feiras, isso implicaria que o diploma teria de 
-sair, aprovado, da Comissão o mais tardar na reunião de dia 22 de Outubro, o 
-que, de acordo com o calendário da referida comissão, não está previsto 
-acontecer, prevendo-se assim que Portugal se prepara para entrar em 
-incumprimento desta directiva comunitária.
+tardar até dia 28, no seio da 1ª Comissão. Mas, segundo o calendário da
+referida comissão, a próxima reunião será no dia 29, e não contempla este tema.
+Portugal prepara-se, assim, para entrar em incumprimento desta directiva
+comunitária.
 
 ## Referências
 
