@@ -1,0 +1,727 @@
+L 299/5-12      EN      Official Journal of the European Union      27.10.2012
+
+
+       DIRECTIVE 2012/28/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+                               of 25 October 2012
+                     on certain permitted uses of orphan works
+                           (Text with EEA relevance)
+
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,                                                           
+                                                                          
+Having regard to the Treaty on the Functioning of the European Union, and in
+particular Articles 53(1), 62 and 114 thereof, 
+
+Having regard to the proposal from the European Commission, 
+
+After transmission of the draft legislative act to the national parliaments,                                                              
+
+Having regard to the opinion of the European Economic and Social Committee
+(1),                                                     
+
+Acting in accordance with the ordinary legislative procedure (2),         
+
+Whereas:                                                                  
+
+(1) Publicly accessible libraries, educational establishments and museums, as
+    well as archives, film or audio heritage institutions and public-service
+    broadcasting organisations, established in the Member States, are engaged
+    in large-scale digitisation of their collections or archives in order to
+    create European Digital Libraries. They contribute to the preservation and
+    dissemination of European cultural heritage, which is also important for
+    the creation of European Digital Libraries, such as Europeana.
+    Technologies for mass digitisation of print materials and for search and
+    indexing enhance the research value of the libraries' collections.
+    Creating large online libraries facilitates electronic search and
+    discovery tools which open up new sources of discovery for researchers and
+    academics who would otherwise have to content themselves with more
+    traditional and analogue search methods.                                                  
+                                                                          
+(2) The need to promote free movement of knowledge and innovation in the
+	internal market is an important component of the Europe 2020 Strategy, as
+	set out in the Communication from the Commission entitled 'Europe 2020: A
+	strategy for smart, sustainable and inclusive growth', which includes as
+	one of its flagship initiatives the development of a Digital Agenda for
+	Europe.                                                                   
+                                                                          
+(3) Creating a legal framework to facilitate the digitisation and
+	dissemination of works and other subject-matter which are protected by
+	copyright or related rights and for which no rightholder is identified or
+	for which the rightholder, even if identified, is not located — so-called
+	orphan works — is a key action of the Digital Agenda for Europe, as set
+	out in the Communication from the Commission entitled 'A Digital Agenda
+	for Europe'. This Directive targets the specific problem of the legal
+	determination of orphan work status and its consequences in terms of the
+	permitted users and permitted uses of works or phonograms considered to be
+	orphan works.                                              
+                                                                                          
+(4) This Directive is without prejudice to specific solutions being developed
+	in the Member States to address larger mass digitisation issues, such as
+	in the case of so-called 'out-of-commerce' works. Such solutions take into
+	account the specificities of different types of content and different
+	users and build upon the consensus of the relevant stakeholders. This
+	approach has also been followed in the Memorandum of Understanding on key
+	principles on the digitisation and making available of out-of-commerce
+	works, signed on 20 September 2011 by representatives of European
+	libraries, authors, publishers and collecting societies and witnessed by
+	the Commission. This Directive is without prejudice to that Memorandum of
+	Understanding, which calls on Member States and the Commission to ensure
+	that voluntary agreements concluded between users, rightholders and
+	collective rights management organisations to licence the use of
+	out-of-commerce works on the basis of the principles contained therein
+	benefit from the requisite legal certainty in a national and cross-border
+	context.
+                                                                                          
+(5) Copyright is the economic foundation for the creative industry, since it
+	estimulates innovation, creation, investment and production. Mass
+	digitisation and dissemination of works is therefore a means of protecting
+	Europe's cultural heritage. Copyright is an important tool for ensuring
+	that the creative sector is rewarded for its work.                                                                    
+                                                                                          
+(6) The rightholders' exclusive rights of reproduction of their works and
+	other protected subject-matter and of making them available to the public,
+	as harmonised under Directive 2001/29/EC of the European Parliament and of
+	the Council of 22 May 2001 on the harmonisation of certain aspects of
+	copyright and related rights in the information society (3), necessitate
+	the prior consent of rightholders to the digitisation and the making
+	available to the public of a work or other protected subject-matter.                                
+                                                                                          
+(7) In the case of orphan works, it is not possible to obtain such prior
+	consent to the carrying-out of acts of reproduction or of making available
+	to the public.                                             
+                                                                                          
+(8) Different approaches in the Member States to the recognition of orphan
+	work status can present obstacles to the functioning of the internal
+	market and the use of, and cross-border access to, orphan works. Such
+	different approaches can also result in restrictions on the free movement
+	of goods and services which incorporate cultural content. Therefore,
+	ensuring the mutual recognition of such status is appropriate, since it
+	will allow access to orphan works in all Member States.
+
+(9) In particular, a common approach to determining the orphan work status and
+	the permitted uses of orphan works is necessary in order to ensure legal
+	certainty in the internal market with respect to the use of orphan works
+	by publicly accessible libraries, educational establishments and museums,
+	as well as by archives, film or audio heritage institutions and
+	public-service broadcasting organisations.
+
+(10) Cinematographic or audiovisual works and phonograms in the archives of 
+	 public-service broadcasting organisations and produced by them include
+	 orphan works. Taking into account the special position of broadcasters as
+	 producers of phonograms and audiovisual material and the need to adopt
+	 measures to limit the phenomenon of orphan works in the future, it is
+	 appropriate to set a cut-off date for the application of this Directive
+	 to works and phonograms in the archives of broadcasting organisations.
+
+(11) Cinematographic and audiovisual works and phonograms contained in the
+	 archives of public-service broadcasting organisations and produced by
+	 them, should for the purposes of this Directive be regarded as including
+	 cinematographic and audiovisual works and phonograms which are
+	 commissioned by such organisations for the exclusive exploitation by them
+	 or other co-producing public-service broadcasting organisations.
+	 Cinematographic and audiovisual works and phonograms contained in the
+	 archives of public-service broadcasting organisations which have not been
+	 produced or commissioned by such organisations, but which those
+	 organisations have been authorised to use under a licensing agreement,
+	 should not fall within the scope of this Directive.
+
+(12) For reasons of international comity, this Directive should apply only to
+	 works and phonograms that are first published in the territory of a
+	 Member State or, in the absence of publication, first broadcast in the
+	 territory of a Member State or, in the absence of publication or
+	 broadcast, made publicly accessible by the beneficiaries of this
+	 Directive with the consent of the rightholders. In the latter case, this
+	 Directive should only apply provided that it is reasonable to assume that
+	 the rightholders would not oppose the use allowed by this Directive.
+
+(13) Before a work or phonogram can be considered an orphan work, a diligent
+	 search for the rightholders in the work or phonogram, including
+	 rightholders in works and other protected subject-matter that are
+	 embedded or incorporated in the work or phonogram, should be carried out
+	 in good faith. Member States should be permitted to provide that such
+	 diligent search may be carried out by the organisations referred to in
+	 this Directive or by other organisations. Such other organisations may
+	 charge for the service of carrying out a diligent search.
+
+(14) It is appropriate to provide for a harmonised approach concerning such
+	 diligent search in order to ensure a high level of protection of
+	 copyright and related rights in the Union. A diligent search should
+	 involve the consultation of sources that supply information on the works
+	 and other protected subject-matter as determined, in accordance with this
+	 Directive, by the Member State where the diligent search has to be
+	 carried out. In so doing, Member States could refer to the diligent
+	 search guidelines agreed in the context of the High Level Working Group
+	 on Digital Libraries established as part of the i2010 digital library
+	 initiative.
+
+(15) In order to avoid duplication of search efforts, a diligent search should
+     be carried out in the Member State where the work or phonogram was first
+	 published or, in cases where no publication has taken place, where it was
+	 first broadcast. The diligent search in respect of cinematographic or
+	 audiovisual works the producer of which has his headquarters or habitual
+	 residence in a Member State should be carried out in that Member State.
+	 In the case of cinematographic or audiovisual works which are co-produced
+	 by producers established in different Member States, the diligent search
+	 should be carried out in each of those Member States. With regard to
+	 works and phonograms which have neither been published nor broadcast but
+	 which have been made publicly accessible by the beneficiaries of this
+	 Directive with the consent of the rightholders, the diligent search
+	 should be carried out in the Member State where the organisation that
+	 made the work or phonogram publicly accessible with the consent of the
+	 rightholder is established. Diligent searches for the rightholders in
+	 works and other protected subject-matter that are embedded or
+	 incorporated in a work or phonogram should be carried out in the Member
+	 State where the diligent search for the work or phonogram containing the
+	 embedded or incorporated work or other protected subject-matter is
+	 carried out. Sources of information available in other countries should
+	 also be consulted if there is evidence to suggest that relevant
+	 information on rightholders is to be found in those other countries. The
+	 carrying-out of diligent searches may generate various kinds of
+	 information, such as a search record and the result of the search. The
+	 search record should be kept on file in order for the relevant
+	 organisation to be able to substantiate that the search was diligent.
+
+(16) Member States should ensure that the organisations concerned keep records
+	 of their diligent searches and that the results of such searches,
+	 consisting in particular of any finding that a work or phonogram is to be
+	 considered an orphan work within the meaning of this Directive, as well
+	 as information on the change of status and on the use which those
+	 organisations make of orphan works, are collected and made available to
+	 the public at large, in particular through the recording of the relevant
+	 information in an online database. Considering in particular the
+	 pan-European dimension, and in order to avoid duplication of efforts, it
+	 is appropriate to make provision for the creation of a single online
+	 database for the Union containing such information and for making it
+	 available to the public at large in a transparent manner. This can enable
+	 both the organisations which are carrying out diligent searches and the
+	 rightholders easily to access such information. The database could also
+	 play an important role in preventing and bringing to an end possible
+	 copyright infringements, particularly in the case of changes to the
+	 orphan work status of the works and phonograms. Under Regulation (EU) No
+	 386/2012 (4), the Office for Harmonization in the Internal Market ('the
+	 Office') is entrusted with certain tasks and activities, financed by
+	 making use of its own budgetary means, aimed at facilitating and
+	 supporting the activities of national authorities, the private sector and
+	 the Union institutions in the fight against, including the prevention of,
+	 infringement of intellectual property rights. 
+
+	 In particular, pursuant to point (g) of Article 2(4) of that Regulation,
+	 those tasks include providing mechanisms which help to improve the online
+	 exchange of relevant information between the Member States' authorities
+	 concerned and fostering cooperation between those auth­ orities. It is
+	 therefore appropriate to rely on the Office to establish and manage the
+	 European database containing information related to orphan works referred
+	 to in this Directive.
+
+(17) There can be several rightholders in respect of a particular work or
+	 phonogram, and works and phonograms can themselves include other works or
+	 protected subject-matter. This Directive should not affect the rights of
+	 identified and located rightholders. If at least one rightholder has been
+	 identified and located, a work or phonogram should not be considered an
+	 orphan work. The beneficiaries of this Directive should only be permitted
+	 to use a work or phonogram one or more of the rightholders in which are
+	 not identified or not located, if they are authorised to carry out the
+	 acts of reproduction and of making available to the public covered by
+	 Articles 2 and 3 respectively of Directive 2001/29/EC by those
+	 rightholders that have been identified and located, including the
+	 rightholders of works and other protected subject-matter which are
+	 embedded or incorporated in the works or phonograms. Rightholders that
+	 have been identified and located can give this authorisation only in
+	 relation to the rights that they themselves hold, either because the
+	 rights are their own rights or because the rights were transferred to
+	 them, and should not be able to authorise under this Directive any use on
+	 behalf of rightholders that have not been identified and located.
+	 Correspondingly, when previously non-identified or non-located
+	 rightholders come forward in order to claim their rights in the work or
+	 phonogram, the lawful use of the work or phonogram by the beneficiaries
+	 can continue only if those rightholders give their authorisation to do so
+	 under Directive 2001/29/EC in relation to the rights that they hold.
+
+(18) Rightholders should be entitled to put an end to the orphan work status
+	 in the event that they come forward to claim their rights in the work or
+	 other protected subject-matter. Rightholders that put an end to the
+	 orphan work status of a work or other protected subject-matter should
+	 receive fair compensation for the use that has been made of their works
+	 or other protected subject-matter under this Directive, to be determined
+	 by the Member State where the organisation that uses an orphan work is
+	 established. Member States should be free to determine the circumstances
+	 under which the payment of such compensation may be organised, including
+	 the point in time at which the payment is due. For the purposes of
+	 determining the possible level of fair compensation, due account should
+	 be taken, inter alia, of Member States' cultural promotion objectives, of
+	 the non-commercial nature of the use made by the organisations in
+	 question in order to achieve aims related to their public-interest
+	 missions, such as promoting learning and disseminating culture, and of
+	 the possible harm to rightholders.
+
+(19) If a work or phonogram has been wrongly found to be an orphan work,
+	 following a search which was not diligent, the remedies for copyright
+	 infringement in Member States' legislation, provided for in accordance
+	 with the relevant national provisions and Union law, remain available.
+
+(20) In order to promote learning and the dissemination of culture, Member
+	 States should provide for an exception or limitation in addition to those
+	 provided for in Article 5 of Directive 2001/29/EC. That exception or
+	 limitation should permit certain organisations, as referred to in point
+	 (c) of Article 5(2) of Directive 2001/29/EC and film or audio heritage
+	 institutions which operate on a non-profit making basis, as well as
+	 public-service broadcasting organisations, to reproduce and make
+	 available to the public, within the meaning of that Directive, orphan
+	 works, provided that such use fulfils their public interest missions, in
+	 particular the preservation of, the restoration of, and the provision of
+	 cultural and educational access to, their collections, including their
+	 digital collections. Film or audio heritage institutions should, for the
+	 purposes of this Directive, cover organisations designated by Member
+	 States to collect, catalogue, preserve and restore films and other
+	 audiovisual works or phonograms forming part of their cultural heritage.
+	 Public-service broadcasters should, for the purposes of this Directive,
+	 cover broadcasters with a public-service remit as conferred, defined and
+	 organised by each Member State. The exception or limitation established
+	 by this Directive to permit the use of orphan works is without prejudice
+	 to the exceptions and limitations provided for in Article 5 of Directive
+	 2001/29/EC. It can be applied only in certain special cases which do not
+	 conflict with the normal exploitation of the work or other protected
+	 subject-matter and do not unreasonably prejudice the legitimate interests
+	 of the rightholder.
+
+(21) In order to incentivise digitisation, the beneficiaries of this Directive
+	 should be allowed to generate revenues in relation to their use of orphan
+	 works under this Directive in order to achieve aims related to their
+	 public-interest missions, including in the context of public-private
+	 partnership agreements.
+
+(22) Contractual arrangements may play a role in fostering the digitisation of
+	 European cultural heritage, it being understood that publicly accessible
+	 libraries, educational establishments and museums, as well as archives,
+	 film or audio heritage institutions and public-service broad­ casting
+	 organisations, should be allowed, with a view to undertaking the uses
+	 permitted under this Directive, to conclude agreements with commercial
+	 partners for the digitisation and making available to the public of
+	 orphan works. Those agreements may include financial contributions by
+	 such partners. Such agreements should not impose any restrictions on the
+	 beneficiaries of this Directive as to their use of orphan works and
+	 should not grant the commercial partner any rights to use, or control the
+	 use of, the orphan works.
+
+(23) In order to foster access by the Union's citizens to Europe's cultural
+	 heritage, it is also necessary to ensure that orphan works which have
+	 been digitised and made available to the public in one Member State may
+	 also be made available to the public in other Member States. Publicly
+	 accessible libraries, educational establishments and museums, as well as
+	 archives, film or audio heritage institutions and public-service
+	 broadcasting organisations that use an orphan work in order to achieve
+	 their public-interest missions should be able to make the orphan work
+	 available to the public in other Member States.
+
+(24) This Directive is without prejudice to the arrangements in the Member
+	 States concerning the management of rights such as extended collective
+	 licences, legal presumptions of representation or transfer, collective
+	 management or similar arrangements or a combination of them, including
+	 for mass digitisation.
+
+(25) Since the objective of this Directive, namely ensuring legal certainty 
+	 with respect to the use of orphan works, cannot be sufficiently achieved
+	 by the Member States and can therefore, by reason of the need for
+	 uniformity of the rules governing the use of orphan works, be better
+	 achieved at Union level, the Union may adopt measures, in accordance with
+	 the principle of subsidiarity as set out in Article 5 of the Treaty on
+	 European Union. In accordance with the principle of proportionality, as
+	 set out in that Article, this Directive does not go beyond what is
+	 necessary in order to achieve that objective,
+
+---- footnotes ---------------------------------------------------------------
+(1) OJ C 376, 22.12.2011, p. 66.                                      
+(2) Position of the European Parliament of 13 September 2012 (not yet
+	published in the Official Journal) and decision of the Council of 4
+	October 2012.                                                       
+(3) OJ L 167, 22.6.2001, p. 10.
+(4) Regulation (EU) No 386/2012 of the European Parliament and of the Council
+	of 19 April 2012 on entrusting the Office for Harmonization in the
+	Internal Market (Trade Marks and Designs) with tasks related to the
+	enforcement of intellectual property rights, including the assembling of
+	public and private-sector representatives as a European Observatory on
+	Infringements of Intellectual Property Rights (OJ L 129, 16.5.2012, p. 1).
+------------------------------------------------------------------------------
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Subject-matter and scope
+
+1.
+This Directive concerns certain uses made of orphan
+works by publicly accessible libraries, educational establishments
+and museums, as well as by archives, film or audio heritage
+institutions and public-service broadcasting organisations, estab­
+lished in the Member States, in order to achieve aims related to
+their public-interest missions.
+
+2.
+This Directive applies to:
+
+(a) works published in the form of books, journals, newspapers,
+magazines or other writings contained in the collections of
+publicly accessible libraries, educational establishments or
+museums as well as in the collections of archives or of
+film or audio heritage institutions;
+(b) cinematographic or audiovisual works and phonograms
+contained in the collections of publicly accessible libraries,
+educational establishments or museums as well as in the
+collections of archives or of film or audio heritage institu­
+tions; and
+(c) cinematographic or audiovisual works and phonograms
+produced by public-service broadcasting organisations up
+to and including 31 December 2002 and contained in
+their archives;
+which are protected by copyright or related rights and which
+are first published in a Member State or, in the absence of
+publication, first broadcast in a Member State.
+
+3.
+This Directive also applies to works and phonograms
+referred to in paragraph 2 which have never been published
+or broadcast but which have been made publicly accessible by
+the organisations referred to in paragraph 1 with the consent of
+the rightholders, provided that it is reasonable to assume that
+the rightholders would not oppose the uses referred to in
+Article 6. Member States may limit the application of this
+paragraph to works and phonograms which have been
+deposited with those organisations before 29 October 2014.
+
+4.
+This Directive shall also apply to works and other
+protected subject-matter that are embedded or incorporated
+in, or constitute an integral part of, the works or phonograms
+referred to in paragraphs 2 and 3.
+
+5.
+This Directive does not interfere with any arrangements
+concerning the management of rights at national level.
+
+Article 2
+
+Orphan works
+
+1.
+A work or a phonogram shall be considered an orphan
+work if none of the rightholders in that work or phonogram is
+identified or, even if one or more of them is identified, none is
+located despite a diligent search for the rightholders having been
+carried out and recorded in accordance with Article 3.
+
+2.
+Where there is more than one rightholder in a work or
+phonogram, and not all of them have been identified or, even if
+identified, located after a diligent search has been carried out
+and recorded in accordance with Article 3, the work or
+phonogram may be used in accordance with this Directive
+provided that the rightholders that have been identified and
+located have, in relation to the rights they hold, authorised
+the organisations referred to in Article 1(1) to carry out the
+acts of reproduction and making available to the public covered
+respectively by Articles 2 and 3 of Directive 2001/29/EC.
+
+3.
+Paragraph 2 shall be without prejudice to the rights in the
+work or phonogram of rightholders that have been identified
+and located.
+
+4.
+Article 5 shall apply mutatis mutandis to the rightholders
+that have not been identified and located in the works referred
+to in paragraph 2.
+
+5.
+This Directive shall be without prejudice to national
+provisions on anonymous or pseudonymous works.
+
+Article 3
+
+Diligent search
+
+1.
+For the purposes of establishing whether a work or
+phonogram is an orphan work, the organisations referred to
+in Article 1(1) shall ensure that a diligent search is carried
+out in good faith in respect of each work or other protected
+subject-matter, by consulting the appropriate sources for the
+category of works and other protected subject-matter in
+question. The diligent search shall be carried out prior to the
+use of the work or phonogram.
+
+2.
+The sources that are appropriate for each category of
+works or phonogram in question shall be determined by each
+Member State, in consultation with rightholders and users, and
+shall include at least the relevant sources listed in the Annex.
+
+3.
+A diligent search shall be carried out in the Member State
+of first publication or, in the absence of publication, first
+broadcast, except in the case of cinematographic or audiovisual
+works the producer of which has his headquarters or habitual
+residence in a Member State, in which case the diligent search
+shall be carried out in the Member State of his headquarters or
+habitual residence.
+
+In the case referred to in Article 1(3), the diligent search shall be
+carried out in the Member State where the organisation that
+made the work or phonogram publicly accessible with the
+consent of the rightholder is established.
+
+4.
+If there is evidence to suggest that relevant information on
+rightholders is to be found in other countries, sources of
+information available in those other countries shall also be
+consulted.
+
+5.
+Member States shall ensure that the organisations referred
+to in Article 1(1) maintain records of their diligent searches and
+that those organisations provide the following information to
+the competent national authorities:
+(a) the results of the diligent searches that the organisations
+have carried out and which have led to the conclusion
+that a work or a phonogram is considered an orphan work;
+(b) the use that the organisations make of orphan works in
+accordance with this Directive;
+(c) any change, pursuant to Article 5, of the orphan work
+status of works and phonograms that the organisations use;
+(d) the relevant contact information of the organisation
+concerned.
+
+6.
+Member States shall take the necessary measures to ensure
+that the information referred to in paragraph 5 is recorded in a
+single publicly accessible online database established and
+managed by the Office for Harmonization in the Internal
+Market ('the Office') in accordance with Regulation (EU) No
+386/2012. To that end, they shall forward that information
+to the Office without delay upon receiving it from the organi­
+sations referred to in Article 1(1).
+
+Article 4
+
+Mutual recognition of orphan work status
+
+A work or phonogram which is considered an orphan work
+according to Article 2 in a Member State shall be considered an
+orphan work in all Member States. That work or phonogram
+may be used and accessed in accordance with this Directive in
+all Member States. This also applies to works and phonograms
+referred to in Article 2(2) in so far as the rights of the nonidentified or
+non-located rightholders are concerned.
+
+Article 5
+
+End of orphan work status
+
+Member States shall ensure that a rightholder in a work or
+phonogram considered to be an orphan work has, at any
+time, the possibility of putting an end to the orphan work
+status in so far as his rights are concerned.
+
+Article 6
+
+Permitted uses of orphan works
+
+1.
+Member States shall provide for an exception or limitation
+to the right of reproduction and the right of making available to
+the public provided for respectively in Articles 2 and 3 of
+Directive 2001/29/EC to ensure that the organisations referred
+to in Article 1(1) are permitted to use orphan works contained
+in their collections in the following ways:
+(a) by making the orphan work available to the public, within
+the meaning of Article 3 of Directive 2001/29/EC;
+(b) by acts of reproduction, within the meaning of Article 2 of
+Directive 2001/29/EC, for the purposes of digitisation,
+making available, indexing, cataloguing, preservation or
+restoration.
+
+2.
+The organisations referred to in Article 1(1) shall use an
+orphan work in accordance with paragraph 1 of this Article
+only in order to achieve aims related to their public-interest
+missions, in particular the preservation of, the restoration of,
+and the provision of cultural and educational access to, works
+and phonograms contained in their collection. The organi­
+sations may generate revenues in the course of such uses, for
+the exclusive purpose of covering their costs of digitising
+orphan works and making them available to the public.
+
+3.
+Member States shall ensure that the organisations referred
+to in Article 1(1) indicate the name of identified authors and
+other rightholders in any use of an orphan work.
+
+4.
+This Directive is without prejudice to the freedom of
+contract of such organisations in the pursuit of their public interest
+missions, particularly in respect of public-private partnership agreements.
+
+5.
+Member States shall provide that a fair compensation is
+due to rightholders that put an end to the orphan work status
+of their works or other protected subject-matter for the use that
+has been made by the organisations referred to in Article 1(1)
+of such works and other protected subject-matter in accordance
+with paragraph 1 of this Article. Member States shall be free to
+determine the circumstances under which the payment of such
+compensation may be organised. The level of the compensation
+shall be determined, within the limits imposed by Union law, by
+the law of the Member State in which the organisation which
+uses the orphan work in question is established.
+
+Article 7
+
+Continued application of other legal provisions
+
+This Directive shall be without prejudice to provisions
+concerning, in particular, patent rights, trade marks, design
+rights, utility models, the topographies of semi-conductor
+products, type faces, conditional access, access to cable of
+broadcasting services, the protection of national treasures,
+legal deposit requirements, laws on restrictive practices and
+unfair competition, trade secrets, security, confidentiality, data
+protection and privacy, access to public documents, the law of
+contract, and rules on the freedom of the press and freedom of
+expression in the media.
+
+Article 8
+
+Application in time
+
+1.
+This Directive shall apply in respect of all works and
+phonograms referred to in Article 1 which are protected by
+the Member States' legislation in the field of copyright on or
+after 29 October 2014.
+
+2.
+This Directive shall apply without prejudice to any acts
+concluded and rights acquired before 29 October 2014.
+
+
+Article 9
+
+Transposition
+
+1.
+Member States shall bring into force the laws, regulations
+and administrative provisions necessary to comply with this
+Directive by 29 October 2014. They shall forthwith
+communicate to the Commission the text of those provisions.
+
+When Member States adopt those provisions, they shall contain  
+a reference to this Directive or shall be accompanied by such a     
+reference on the occasion of their official publication. The    
+methods of making such reference shall be laid down by       
+Member States.
+
+2.
+Member States shall communicate to the Commission the
+text of the main provisions of national law which they adopt in
+the field covered by this Directive.
+
+Article 10
+
+Review clause
+
+The Commission shall keep under constant review the devel­
+opment of rights information sources and shall by 29 October
+2015, and at annual intervals thereafter, submit a report
+concerning the possible inclusion in the scope of application
+of this Directive of publishers and of works or other protected
+subject-matter not currently included in its scope, and in
+particular stand-alone photographs and other images.
+
+By 29 October 2015, the Commission shall submit to the
+European Parliament, the Council and the European Economic
+and Social Committee a report on the application of this
+Directive, in the light of the development of digital libraries.
+
+When necessary, in particular to ensure the functioning of the
+internal market, the Commission shall submit proposals for
+amendment of this Directive.
+
+A Member State that has valid reasons to consider that the
+implementation of this Directive hinders one of the national
+arrangements concerning the management of rights referred
+to in Article 1(5) may bring the matter to the attention of
+the Commission together with all relevant evidence. The
+Commission shall take such evidence into account when
+drawing up the report referred to in the second paragraph of
+this Article and when assessing whether it is necessary to
+submit proposals for amendment of this Directive.
+
+Article 11
+
+Entry into force
+
+This Directive shall enter into force on the day following that of
+its publication in the Official Journal of the European Union.
+
+Article 12
+
+Addressees
+
+This Directive is addressed to the Member States.
+
+
+Done at Strasbourg, 25 October 2012.
+
+For the European Parliament
+The President
+M. SCHULZ
+
+For the Council
+The President
+A. D. MAVROYIANNIS
+
+
+ANNEX
+The sources referred to in Article 3(2) include the following:
+(1) for published books:
+	(a) legal deposit, library catalogues and authority files maintained by
+		libraries and other institutions;
+    (b) the publishers' and authors' associations in the respective country;
+	(c) existing databases and registries, WATCH (Writers, Artists and their
+		Copyright Holders), the ISBN (International Standard Book Number) and
+		databases listing books in print;
+	(d) the databases of the relevant collecting societies, in particular
+		reproduction rights organisations;
+	(e) sources that integrate multiple databases and registries, including
+		VIAF (Virtual International Authority Files) and ARROW (Accessible
+		Registries of Rights Information and Orphan Works);
+(2) for newspapers, magazines, journals and periodicals:
+	(a) the ISSN (International Standard Serial Number) for periodical
+        publications;
+    (b) indexes and catalogues from library holdings and collections;
+    (c) legal deposit;
+	(d) the publishers' associations and the authors' and journalists'
+        associations in the respective country;
+	(e) the databases of relevant collecting societies including reproduction
+        rights organisations;
+(3) for visual works, including fine art, photography, illustration, design,
+	architecture, sketches of the latter works and other such works that are
+	contained in books, journals, newspapers and magazines or other works:
+    (a) the sources referred to in points (1) and (2);
+	(b) the databases of the relevant collecting societies, in particular for
+	    visual arts, and including reproduction rights organisations;
+    (c) the databases of picture agencies, where applicable;
+(4) for audiovisual works and phonograms:
+	(a) legal deposit;
+	(b) the producers' associations in the respective country;
+	(c) databases of film or audio heritage institutions and national
+	    libraries;
+	(d) databases with relevant standards and identifiers such as ISAN
+		(International Standard Audiovisual Number) for audiovisual material,
+		ISWC (International Standard Music Work Code) for musical works and
+		ISRC (International Standard Recording Code) for phonograms;
+	(e) the databases of the relevant collecting societies, in particular for
+		authors, performers, phonogram producers and audiovisual producers;
+    (f) credits and other information appearing on the work's packaging;
+	(g) databases of other relevant associations representing a specific
+	    category of rightholders.
