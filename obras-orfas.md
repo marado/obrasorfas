@@ -34,12 +34,12 @@ final, pela ANSOL[5] e pela AEL[6], ainda que de forma muito breve.
 
 ## Calendário
 
-Tendo em consideração que a transposição tem de estar concluída (e publicada 
-em Diário da República) até 29 de Outubro, a votação teria de ocorrer o mais 
-tardar até dia 28, no seio da 1ª Comissão. Mas, segundo o calendário da
-referida comissão, a próxima reunião será no dia 29, e não contempla este tema.
-Portugal prepara-se, assim, para entrar em incumprimento desta directiva
-comunitária.
+De acordo com a Directiva Comunitária, a transposição deveria ter estado
+concluída até 29 de Outubro, o que não aconteceu. A ANSOL comunicou as suas
+preocupações nesse sentido à 1ª Comissão, em carta. 
+
+A referida Comissão tem agendada uma primeira vaga de audições sobre o tema a 4
+de Novembro.
 
 ## Referências
 
