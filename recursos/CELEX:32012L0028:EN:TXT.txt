@@ -350,12 +350,11 @@ Article 1
 Subject-matter and scope
 
 1.
-This Directive concerns certain uses made of orphan
-works by publicly accessible libraries, educational establishments
-and museums, as well as by archives, film or audio heritage
-institutions and public-service broadcasting organisations, estab­
-lished in the Member States, in order to achieve aims related to
-their public-interest missions.
+This Directive concerns certain uses made of orphan works by publicly
+accessible libraries, educational establishments and museums, as well as by
+archives, film or audio heritage institutions and public-service broadcasting
+organisations, established in the Member States, in order to achieve aims
+related to their public-interest missions.
 
 2.
 This Directive applies to:
