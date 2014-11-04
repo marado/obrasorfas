@@ -157,4 +157,28 @@ ela significa, é possível que ela tenha de ser efectuada, por motivos de
 cumprimento da directiva comunitária, como alegado pela SPA. Vamos então olhar
 para o texto da directiva sobre este tema:
 
-[Análise por terminar]
+Segundo o Artigo 6 da directiva, os Estados Membros devem:
+1. Permitir uma excepção ou limitação ao direito de reprodução e de
+   disponilibilização de forma a permitir:
+   (a) disponibilizar uma obra órfã ao público, dentro dos limites
+       estabelecidos pelo Artigo 3 da Directiva 2001/29/EC;
+   (b) permitir actos de reprodução, dentro dos limites establecidos pelo
+       Artigo 2 da mesma directiva, para efeitos de digitalização,
+	   disponibilização, indexação, catalogação, preservação ou restauro.
+
+Vamos então analizar os limites dos referidos artigos 2 e 3 da Directiva
+2001/29/EC, obtendo assim a lista de actividades a permitir:
+1) fixação de prestações, reproduções (directas ou indirectas), temporárias ou
+   permanentes, por quaisquer e sob qualquer forma, no todo ou em parte, em
+   a) fonogramas;
+   b) filmes;
+   c) radiodifusões;
+2) comunicação das obras ao público, por fio ou sem fio, incluindo a
+   disposição ao público por forma a colocá-las acessíveis a qualquer pessoa a
+   partir do local e no momento por ela escolhido, para os casos de:
+   a) fonogramas;
+   b) filmes;
+   c) radiodifusões.
+
+Vemos, assim, que para cumprir o disposto na directiva, há que permitir os
+pontos h) e i) do CDADC, como constava na redacção original.
