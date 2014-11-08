@@ -38,8 +38,8 @@ De acordo com a Directiva Comunitária, a transposição deveria ter estado
 concluída até 29 de Outubro, o que não aconteceu. A ANSOL comunicou as suas
 preocupações nesse sentido à 1ª Comissão, em carta[7]. 
 
-A referida Comissão tem agendada uma primeira vaga de audições sobre o tema a 4
-de Novembro.
+A referida Comissão efectuou uma primeira vaga de audições sobre o tema a 4 de
+Novembro[8].
 
 ## Referências
 
@@ -49,4 +49,5 @@ de Novembro.
 * [4] trabalho de comparação, para já, a ser trabalhado em https://github.com/marado/obrasorfas/tree/master/comparacoes
 * [5] https://c.ansol.org/node/33
 * [6] http://ensinolivre.pt/propostas-de-lei-246xii-e-247xii
-* [7] incumprimento.txt
+* [7] https://github.com/marado/obrasorfas/blob/master/incumprimento.txt
+* [8] http://www.canal.parlamento.pt/arq/XII/SL4/arq_com.html#cacdlg

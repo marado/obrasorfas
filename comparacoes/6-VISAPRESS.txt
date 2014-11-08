@@ -1,0 +1,108 @@
+= Análise =
+
+== Formas de utilização ==
+
+Diz a VISAPRESS:
+
+	[...]nos termos do artigo 68º do CDADC são expressamente referidas várias formas de
+	utilização de uma obra como por exemplo, e entre tantas outras, a
+	”representação, recitação, execução, exibição ou exposição em público”, a
+	“tradução, adaptação, arranjo, instrumentação ou qualquer outra transformação
+	da obra” e “qualquer utilização em obra diferente”
+	
+	[...]de acordo com o artigo 6º da Directiva objecto de transposição, apenas
+	são admitidas as seguintes formas de utilização de obras protegidas: «a)
+	colocando a obra órfã à disposição do público, na acepção do artigo 3º da
+	Diretiva 2001/29/CE; b) Por actos de reprodução, na aceção do artigo 2º da
+	Diretiva 2001/29/CE, para fins de digitalização, colocação à disposição do
+	público, indexação, catalogação, preservação ou restauro.»
+	
+	Assim, não devem ser admitidas quaisquer outras utilizações de obras
+	protegidas, pelas Instituições, ainda que ao abrigo do interesse público, para
+	além da realização de actos de reprodução e de colocação à disposição do
+	público referidos respectivamente nos artigos 2º e 3º da Directiva 2001/29/CE
+	e com as limitações de finalidade supra descritas.
+
+A recomendação foi tomada em consideração, como pode ser visto na análise à
+resposta da SPA[1].
+
+== Artigo 26-A da Directiva ==
+
+De acordo com a VISAPRESS:
+
+	As situações referidas no n.º 2 a 5 do artigo 2º da Directiva, nomeadamente no
+	que se refere à necessidade de consentimento de algum ou alguns dos titulares
+	de direitos que tenham sido identificados ou localizados para a utilização da
+	obra, não estão vertidas no Projecto. É entendimento da Visapress que a
+	inclusão destas normas poderá ter vantagens, eliminando eventuais dúvidas que
+	possam surgir na forma de articulação dos direitos de autor sempre que os
+	direitos sobre uma obra sejam, simultaneamente, da titularidade de autores
+	identificados/localizados ou não.
+
+Na redacção final, tal não foi tomado em consideração.
+
+Dizem também:
+
+	Parece-nos deficiente, neste Projecto, a referência às regras de definição
+	do(s) Estado-Membro(s) no qual deve ser realizada uma pesquisa diligente tal
+	como são descritas apenas no artigo 26º-A, n.º 5 sobretudo considerando que as
+	formas de exteriorização das obras protegidas em causa não se circunscrevem à
+	colocação das mesmas à disposição do público, mas compreendem igualmente a
+	publicação e a difusão.
+
+Isto foi colmatado com a introdução da alínea 5, que diz:
+versão mais antiga que temos diz:
+
+	5 - No caso da primeira publicação ou difusão da obra ter sido efetuada em
+	território português, a pesquisa diligente e de boa-fé deve ser efetuada neste
+	território, com exceção das obras cinematográficas ou audiovisuais e das
+	fixadas em fonograma que sejam produzidas ou coproduzidas por produtores com a
+	sua sede ou a sua residência habitual num Estado-membro da União Europeia,
+	caso em que a pesquisa se efetua no Estado-membro da sua sede ou da sua
+	residência habitual.
+
+== Artigo 26-B ==
+
+Comenta a VISAPRESS:
+
+	Na fixação da compensação equitativa não nos parece consentâneo com o
+	nosso ordenamento jurídico a referência a “danos patrimoniais
+	injustificados sofridos pelos titulares dos direitos de autor” uma vez que
+	não existe este conceito de danos patrimoniais “injustificados” (veja-se,
+	neste sentido, o Considerando 18 da Directiva), principalmente, tendo em
+	conta a necessária relevância e ponderação que deve ser dada à natureza
+	não comercial da utilização que seja feita, os objectivos de interesse
+	público envolvidos, etc. Assim, consideramos que neste ponto o Projecto
+	deverá permanecer fiel à redacção do texto da Directiva eliminando-se a
+	menção a “injustificados”.
+
+A mensão a "injustificados" mantém-se na redação final.
+
+== Gralhas ==
+
+A VISAPRESS identifica ainda como gralhas os seguintes items:
+
+	(i) No artigo 26º - A, n.º 2 parece-nos que a referência a “todos os
+	    estados-membros” (sublinhado nosso) é um lapso, possivelmente gerador de
+	    confusão, uma vez que para ser considerada obra órfã bastará que a mesma seja
+	    objecto de publicação e distribuição num único estado-membro da União Europeua
+	    e não em “todos”.
+	(ii) Identificámos no artigo 26º-A, n.º 8 uma referência às “entidades
+	     previstas no n.º 2”, sendo que o n.º 2 deste artigo não procede à
+	     identificação de quaisquer entidades. Pensamos que a intenção do legislador
+	     era mencionar as entidades previstas no artigo 75º, n.2 alínea u).
+
+A primeira gralha foi corrigida, a seguinda não.
+
+= Conclusão =
+
+1) A conclusão tomada aos comentários da SPA deve ser replicada aqui, visto
+   que a VISAPRESS faz a mesma recomendação, com a qual discordamos;
+2) Concordamos com o comentário da VISAPRESS feito quanto ao artigo 26-A da
+   directiva para o caso em que alguns dos titulares tenham sido
+   identificados;
+3) A gralha (ii) referida pela VISAPRESS deve ser corrigida.
+
+= Referências =
+
+[1] https://github.com/marado/obrasorfas/blob/master/comparacoes/5-SPA.txt
