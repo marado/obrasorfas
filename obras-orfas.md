@@ -39,7 +39,9 @@ concluída até 29 de Outubro, o que não aconteceu. A ANSOL comunicou as suas
 preocupações nesse sentido à 1ª Comissão, em carta[7]. 
 
 A referida Comissão efectuou uma primeira vaga de audições sobre o tema a 4 de
-Novembro[8].
+Novembro[8]. No dia 10 de Dezembro foi criado um grupo de trabalho que, no
+prazo de 10 dias, irá recolher comentários para possíveis alterações. Uma vaga
+de audições nesse sentido irá ocorrer no próximo dia 17 de Dezembro[10].
 
 ## Referências
 
@@ -51,3 +53,5 @@ Novembro[8].
 * [6] http://ensinolivre.pt/propostas-de-lei-246xii-e-247xii
 * [7] https://github.com/marado/obrasorfas/blob/master/incumprimento.txt
 * [8] http://www.canal.parlamento.pt/arq/XII/SL4/arq_com.html#cacdlg
+* [9] http://www.parlamento.pt/sites/COM/XIILEG/1CACDLG/GTDADC/Paginas/default.aspx
+* [10] http://app.parlamento.pt/webutils/docs/doc.pdf?Path=6148523063446f764c324679626d56304c334e706447567a4c31684a5355786c5a793944543030764d554e425130524d527939485645524252454d7651584a7864576c3262304e7662576c7a633246764c3039795a4756756379426b5a534255636d46695957786f627939485645524252454e664d5335775a47593d&Fich=GTDADC_1.pdf&Inline=true
