@@ -48,10 +48,6 @@ tornadas de acesso público, gratuito e livre. Caso este sejam um caminho que
 o actual Grupo de Trabalho pretenda percorrer, a ANSOL disponibiliza-se desde
 já para dar os seus contributos que levem à redacção do articulado necessário.
 
- Sobre a Proposta de Lei sobre as obras órfãs, a Associação Ensino Livre
- sugeriu aos srs. Deputados que a lei tornasse públicas as fontes, que
- permitem aos cidadãos saber se determinada obra ainda tem direitos de autor.
-
 ## Conclusão
 
 A transposição desta Directiva é crucial - mas, infelizmente, a actual
